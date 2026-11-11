@@ -367,3 +367,23 @@ PayAgent Protocol was developed as a practical exploration of agent-based workfl
 The project brings together frontend development, REST API design, database management, external API integration, asynchronous operations, error handling, and structured task processing.
 
 Its main focus is demonstrating how AI-assisted verification and payment workflows can work together within a full-stack application.
+
+## Project Screenshots
+
+### Dashboard
+![PayAgent Protocol Dashboard](screenshots/01-dashboard.png)
+
+### Task Creation
+![Create Task](screenshots/02-create-task.png)
+
+### PayPal Sandbox Checkout
+![PayPal Sandbox Checkout](screenshots/03-paypal-sandbox-checkout.png)
+
+### Payment Approval
+![PayPal Approval](screenshots/04-payment-approved.png)
+
+### CSV Analysis and Task Execution
+![CSV Upload](screenshots/05-csv-upload.png)
+
+### Completed Task and Payment Capture
+![Payment Captured](screenshots/06-payment-captured.png)
