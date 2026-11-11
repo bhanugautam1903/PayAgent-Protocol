@@ -1,0 +1,13 @@
+node_modules/
+
+.env
+.env.*
+!.env.example
+
+config/serviceAccountKey.json
+
+dist/
+build/
+coverage/
+
+.DS_Store
